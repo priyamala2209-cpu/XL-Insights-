@@ -36,7 +36,7 @@ This project applies Microsoft Excel to conduct exploratory data analysis on a 3
 
 1. *Open the Workbook*: Launch Product_Analysis.xlsx in Microsoft Excel. Click Enable Editing if prompted by Protected View.
 2. *Review Raw Data*: Navigate to the Dataset sheet to examine the 34-product portfolio with fields for Product ID, Name, Brand, Price, Quantity, and Category.
-3. *Inspect Key Metrics*: Scroll to the Basic Data Exploration section to view calculated results:
+
 ## Example Formulas Used
 
 ### SUM Formula
